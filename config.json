@@ -1,5 +1,6 @@
 {
+    "LOG_LIMIT" : 5,
     "BOT_TOKEN" : "0",
-    "TESTER_TOKEN" : "0",
+    "TESTER_ID" : 0,
     "DEFAULT_PREFIX" : "stat/"
 }
